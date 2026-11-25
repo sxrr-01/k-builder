@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-mkdir ~/k-bilder
+mkdir ~/k-builder
 
 cat << 'EOF' >> ~/k-builder/script.sh
 #!/bin/bash
