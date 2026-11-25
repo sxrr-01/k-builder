@@ -8,7 +8,7 @@
 
 1. **Get & Execute Install Script (Paste into your Bash Shell)**
    ```bash
-   curl -fsSL <to be released> | bash
+   curl -fsSL https://raw.githubusercontent.com/sxrr-01/k-builder/main/installer.sh | bash
    ```
 2. **Follow the script, might need additional password or config parameter input. Restart your Sytem after it finishes.**
 
